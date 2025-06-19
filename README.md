@@ -1,4 +1,5 @@
-# MedCart
+# Welcome to your EzSite project
+
 A clean, modern React template with TypeScript, Vite, TailwindCSS, and ShadCN UI components. This template provides a solid foundation for building web applications with best practices in mind.
 
 ## Tech Features
@@ -85,4 +86,4 @@ yarn build
 pnpm build
 ```
 
-
+The built files will be in the `dist` directory, ready to be deployed.
